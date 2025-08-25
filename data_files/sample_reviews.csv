@@ -1,0 +1,5 @@
+review_id,date,rating,text
+R12345,2025-01-01,★★★☆☆ (3 stars),"I love the discount program in this app - saved 30% on my last order! However, the search functionality is really frustrating. Results are rarely relevant to what I'm looking for. They should implement category filters and improve their search algorithm."
+R67890,2025-01-05,★★★★★ (5 stars),"Delivery was super fast and the rider was polite. The food was hot and fresh. Best experience so far!"
+R24680,2025-01-07,★☆☆☆☆ (1 star),"My order arrived late and items were missing. I contacted support but got no response."
+R13579,2025-01-10,★★★☆☆ (3 stars),"The app UI looks good but is confusing to navigate. Please make the checkout process simpler."
